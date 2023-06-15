@@ -29,7 +29,7 @@ Step 7: Save and run the application.
 
 
 ## MainActivity.java:
-
+```
 package com.example.tc;
 import android.os.Bundle;
 import android.os.Handler;
@@ -75,9 +75,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 ## activity_main.xml:
-
+```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-
+```
 ## Output:
 ![image](https://github.com/RuchithaReddy28/SkillAss-01/assets/93427261/3c9cda50-34ab-445f-ad28-cf283e2c0eaa)
 ![image](https://github.com/RuchithaReddy28/SkillAss-01/assets/93427261/5105beda-5738-4bb0-9dad-ddd702a65ce0)
